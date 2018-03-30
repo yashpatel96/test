@@ -7,3 +7,5 @@ while a<100:
 	
 def new(a,b,c):
 	return a+b*c
+	
+print "i m yash"
